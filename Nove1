@@ -58,9 +58,9 @@ header h1{font-family:'Playfair Display',serif;font-size:2.5rem;margin:0;color:#
 <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
 <script>
 // Inicialitzar EmailJS
-emailjs.init("POSA_LA_TEVA_PUBLIC_KEY");
-const serviceID = "POSA_EL_TEU_SERVICE_ID";
-const templateID = "POSA_EL_TEU_TEMPLATE_ID";
+emailjs.init("Ii-pS-x9zkGqnawB7");
+const serviceID = "service_ae4etn7";
+const templateID = "template_88plg5s";
 
 // Hàbits
 const habits = [
